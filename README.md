@@ -7,6 +7,16 @@
 ### Technologies Used
 Django  
 Python 
+
+### Results
+
+#### Sample Resume
+![Input](https://github.com/abhishek593/JAO_Parser/blob/master/sample_resume.PNG?raw=true)
+
+#### Output
+![Output-Part1](https://github.com/abhishek593/JAO_Parser/blob/master/output1.PNG?raw=true)
+![Output-Part2](https://github.com/abhishek593/JAO_Parser/blob/master/output2.PNG?raw=true)
+
 ### Install Requirements
 First, create a python virtual environment. Then install requirements as-
 ```
@@ -21,7 +31,6 @@ python manage.py migrate
 In development server  
 User website - 'http://127.0.0.1:8000/'  
 
-## Usage
 1. First visit 'http://127.0.0.1:8000/resume/' and uplaod a resume. Verify that your file has been uploaded. It will be visible on the same page.
 2. Then visit 'http://127.0.0.1:8000/resume/resume_text/' to view all the parsed keywords from the resume.
 
