@@ -1,7 +1,7 @@
 # JAO_Parser
-Resume Parser for Amdocs Round 2, 2022  
+## Resume Parser for Amdocs Round 2, 2022  
 
-User can upload their Resume, and the application will parse all the keywords in the Resume for further procesing.
+#### User can upload their Resume, and the application will parse all the keywords in the Resume for further procesing.
 ---
 
 ### Technologies Used
